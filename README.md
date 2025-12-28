@@ -9,7 +9,6 @@
 <br>
 
 <h3 align="center">What I'm Doing</h3>
-
 <p align="center">
   Working on personal and academic projects<br>
   Learning new technologies and strengthening fundamentals<br>
@@ -19,8 +18,11 @@
 
 <br>
 
-<h3 align="center">Frontend</h3>
+<h3 align="center">Technologies</h3>
+
+<!-- Frontend y Backend en la misma línea -->
 <p align="center">
+  <strong>Frontend:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
@@ -28,36 +30,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
 </p>
 
-<br>
-
-<h3 align="center">Backend</h3>
 <p align="center">
+  <strong>Backend:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
 </p>
 
-<br>
-
-<h3 align="center">Databases</h3>
 <p align="center">
+  <strong>Databases:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" />
 </p>
 
-<br>
-
-<h3 align="center">Mobile Development</h3>
 <p align="center">
+  <strong>Mobile:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50" />
 </p>
 
-<br>
-
-<h3 align="center">Tools</h3>
 <p align="center">
+  <strong>Tools:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
