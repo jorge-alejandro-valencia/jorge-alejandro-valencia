@@ -57,6 +57,8 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
+<br><br>
+
 <h2 align="center">Tools</h2>
 
 <p align="center">
@@ -67,6 +69,58 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+
+<br><br>
+
+<h2 align="center">Featured Projects</h2>
+
+<div align="center">
+
+<h4>Personal Portfolio Website</h4>
+<p>
+  A personal portfolio website created to showcase my projects, skills, and experience.<br>
+  Focused on clean design, responsiveness, and modern frontend practices.
+</p>
+<p>
+  <strong>Tech stack:</strong> HTML, CSS, JavaScript, React, Tailwind CSS
+</p>
+<p>
+  <a href="https://github.com/your-username/portfolio" target="_blank">
+    View Repository
+  </a>
+</p>
+
+<br>
+
+<h4>REST API Backend</h4>
+<p>
+  A RESTful API built to manage data and users, following clean architecture principles and best practices.
+</p>
+<p>
+  <strong>Tech stack:</strong> Java, Spring Boot, PostgreSQL, Postman
+</p>
+<p>
+  <a href="https://github.com/your-username/rest-api-project" target="_blank">
+    View Repository
+  </a>
+</p>
+
+<br>
+
+<h4>Mobile App (Flutter)</h4>
+<p>
+  A cross-platform mobile application developed with Flutter, focused on performance and usability.
+</p>
+<p>
+  <strong>Tech stack:</strong> Flutter, Dart
+</p>
+<p>
+  <a href="https://github.com/your-username/flutter-app" target="_blank">
+    View Repository
+  </a>
+</p>
+
+</div>
 
 <br><br>
 
