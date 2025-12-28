@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Jorge Alejandro Valencia Castrillon
 
-<!--
-**jorge-alejandro-valencia/jorge-alejandro-valencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior developer with a strong interest in technology, programming, and continuous learning.  
+Motivated to grow through hands-on projects and collaboration.
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+▸ Currently working on personal and academic projects  
+▸ Learning new technologies and improving my programming skills step by step  
+▸ Open to collaborating on junior-friendly and open-source projects  
+▸ Focused on gaining real-world experience and learning from other developers  
+▸ Feel free to ask me about basic programming concepts and learning resources  
+▸ Contact: add your email or social links here
+
+Thanks for visiting my profile.
