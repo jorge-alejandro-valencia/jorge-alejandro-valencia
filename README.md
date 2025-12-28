@@ -19,8 +19,7 @@
 
 <br>
 
-## Technologies
-
+<h2><strong>Techologies</strong></h2>
 
 <br>
 
