@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=Jorge%20Alejandro%20Valencia&fontSize=32&fontColor=ffffff" />
-</p>
-
 ## About me
 
 Junior developer with a strong interest in technology, programming, and continuous learning.  
