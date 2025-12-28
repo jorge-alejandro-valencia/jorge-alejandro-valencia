@@ -19,7 +19,9 @@
 
 <br>
 
-<h2 align="center"><strong>Techologies</strong></h2>
+<h2 align="center">
+  <strong>Techologies</strong>
+</h2>
 
 <br>
 
