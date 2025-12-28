@@ -1,3 +1,7 @@
+<!-- Banner arriba -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" width="100%" />
+</p>
 
 <h2 align="center">Jorge Alejandro Valencia Castrillon</h2>
 <h3 align="center">Junior Developer</h3>
@@ -20,9 +24,7 @@
 
 <br>
 
-<h2 align="center">
-  <strong>Techologies</strong>
-</h2>
+<h2 align="center"><strong>Technologies</strong></h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
@@ -43,12 +45,12 @@
 <h2 align="center">Tools</h2>
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
 </p>
+
 <br>
 
 <h3 align="center">Contact</h3>
