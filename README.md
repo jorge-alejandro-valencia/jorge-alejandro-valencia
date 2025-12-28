@@ -1,5 +1,5 @@
-<h3 align="center" width="40">
-  <strong> Jorge Alejandro Valencia Castrillon </strong>
+<h3 align="center">
+  <strong>Jorge Alejandro Valencia Castrillon</strong>
 </h3>
 
 ## About me
@@ -9,8 +9,6 @@ I enjoy building projects, improving my skills step by step, and learning from r
 
 I am motivated to grow as a developer through practice, collaboration, and constant learning.
 
----
-
 ## What I'm doing
 
 ▸ Working on personal and academic projects  
@@ -18,14 +16,11 @@ I am motivated to grow as a developer through practice, collaboration, and const
 ▸ Open to collaborating on junior-friendly and open-source projects  
 ▸ Focused on gaining real-world experience  
 
----
-
 ## Technologies
 
-## Frontend
+### Frontend
 
 <p>
-  <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -33,28 +28,22 @@ I am motivated to grow as a developer through practice, collaboration, and const
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 </p>
 
-</p>
-
-## Backend
+### Backend
 
 <p>
-  <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
 </p>
 
-## Databases
+### Databases
 
 <p>
-  <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
 </p>
 
-</p>
-
-## Mobile Development
+### Mobile Development
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
@@ -62,14 +51,9 @@ I am motivated to grow as a developer through practice, collaboration, and const
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" />
 </p>
 
-
----
-
 ## Contact
 
-▸ Email: alejandro2003castrillon@gmail.com 
-
----
+▸ Email: alejandro2003castrillon@gmail.com
 
 <p align="center">
   Thanks for visiting my profile.
