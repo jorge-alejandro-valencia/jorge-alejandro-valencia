@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Jorge%20Alejandro%20Valencia%20Castrillon&fontSize=32&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=Jorge%20Alejandro%20Valencia%20Castrillon&fontSize=32&fontColor=ffffff" />
 </p>
 
 <h2 align="center">
