@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=Jorge%20Alejandro%20Valencia&fontSize=32&fontColor=ffffff" />
+</p>
 
 ## About me
 
@@ -41,5 +43,3 @@ I am motivated to grow as a developer through practice, collaboration, and const
 <p align="center">
   Thanks for visiting my profile.
 </p>
-
-Thanks for visiting my profile.
