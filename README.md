@@ -34,9 +34,7 @@ I am motivated to grow as a developer through practice, collaboration, and const
 
 ## Contact
 
-▸ Email: your-email@example.com  
-▸ LinkedIn: https://linkedin.com/in/your-profile  
-▸ Portfolio: https://your-portfolio.com  
+▸ Email: alejandro2003castrillon@gmail.com 
 
 ---
 
