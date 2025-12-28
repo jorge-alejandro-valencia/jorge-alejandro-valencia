@@ -1,5 +1,5 @@
-<p align="center" font-weight="800">
-  Jorge Alejandro Valencia Castrillon</p>
+<b align="center">
+  Jorge Alejandro Valencia Castrillon</b>
 
 ## About me
 
