@@ -1,4 +1,4 @@
-<b justify="center">
+<b align="center">
   Jorge Alejandro Valencia Castrillon</b>
 
 ## About me
