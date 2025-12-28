@@ -12,5 +12,6 @@ Motivated to grow through hands-on projects and collaboration.
 ▸ Feel free to ask me about basic programming concepts and learning resources  
 ▸ Contact: alejandro2003castrillon@gmail.com
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 Thanks for visiting my profile.
