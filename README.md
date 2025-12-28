@@ -1,4 +1,5 @@
-<p align-items = "center"> Jorge Alejandro Valencia Castrillon</p>
+<p align="center">
+  Jorge Alejandro Valencia Castrillon</p>
 
 ## About me
 
