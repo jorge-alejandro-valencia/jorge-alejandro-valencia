@@ -1,3 +1,5 @@
+<p display:flex; align-items: center> Jorge Alejandro Valencia Castrillon</p>
+
 ## About me
 
 Junior developer with a strong interest in technology, programming, and continuous learning.  
