@@ -10,6 +10,7 @@ Motivated to grow through hands-on projects and collaboration.
 ▸ Open to collaborating on junior-friendly and open-source projects  
 ▸ Focused on gaining real-world experience and learning from other developers  
 ▸ Feel free to ask me about basic programming concepts and learning resources  
-▸ Contact: add your email or social links here
+▸ Contact: alejandro2003castrillon@gmail.com
+
 
 Thanks for visiting my profile.
