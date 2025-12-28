@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" width="40">
   <strong> Jorge Alejandro Valencia Castrillon </strong>
 </p>
 
