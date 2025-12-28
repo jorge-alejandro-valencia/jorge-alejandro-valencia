@@ -54,6 +54,15 @@ I am motivated to grow as a developer through practice, collaboration, and const
 
 </p>
 
+## Mobile Development
+
+<p>
+  <p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
+
+  </p>
+</p>
+
 ---
 
 ## Contact
