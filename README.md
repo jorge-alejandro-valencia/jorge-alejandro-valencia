@@ -52,11 +52,8 @@
 
 <br>
 <h3 align="center">Contact</h3>
-<p align="center">
+<a href = "mailto:alejandro2003castrillon@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black""  /></a>
 
-<a href = "mailto:alejandro2003castrillon@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-  
-</p>
 
 <p align="center">
   Thanks for visiting my profile!
