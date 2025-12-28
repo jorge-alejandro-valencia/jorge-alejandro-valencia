@@ -57,8 +57,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-<br><br>
-
 <h2 align="center">Tools</h2>
 
 <p align="center">
