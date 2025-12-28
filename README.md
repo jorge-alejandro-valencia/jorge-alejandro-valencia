@@ -1,26 +1,33 @@
-<h3 align="center">
-  <strong>Jorge Alejandro Valencia Castrillon</strong>
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Jorge%20Alejandro%20Valencia%20Castrillon&fontSize=32&fontColor=ffffff" />
+</p>
 
-## About me
+<h2 align="center">
+  Junior Developer
+</h2>
 
-Junior developer with a strong interest in technology, programming, and continuous learning.  
-I enjoy building projects, improving my skills step by step, and learning from real-world challenges.
+<p align="center">
+  Passionate about technology, programming, and continuous learning.<br>
+  Building projects, improving my skills step by step, and solving real-world challenges.
+</p>
 
-I am motivated to grow as a developer through practice, collaboration, and constant learning.
+---
 
-## What I'm doing
+<h3 align="center">🚀 What I'm Doing</h3>
 
-▸ Working on personal and academic projects  
-▸ Learning new technologies and strengthening my fundamentals  
-▸ Open to collaborating on junior-friendly and open-source projects  
-▸ Focused on gaining real-world experience  
+<p align="center">
+  Working on personal and academic projects<br>
+  Learning new technologies and strengthening my fundamentals<br>
+  Open to collaborating on junior-friendly and open-source projects<br>
+  Focused on gaining real-world experience
+</p>
 
-## Technologies
+---
 
-### Frontend
+<h3 align="center">💻 Technologies</h3>
 
-<p>
+<p align="center">
+  <strong>Frontend:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -28,33 +35,41 @@ I am motivated to grow as a developer through practice, collaboration, and const
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 </p>
 
-### Backend
-
-<p>
+<p align="center">
+  <strong>Backend:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
 </p>
 
-### Databases
-
-<p>
+<p align="center">
+  <strong>Databases:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
 </p>
 
-### Mobile Development
-
-<p>
+<p align="center">
+  <strong>Mobile Development:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" />
 </p>
 
-## Contact
+<p align="center">
+  <strong>Tools:</strong><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</p>
 
-▸ Email: alejandro2003castrillon@gmail.com
+---
+
+<h3 align="center">📫 Contact</h3>
 
 <p align="center">
-  Thanks for visiting my profile.
+  Email: <a href="mailto:alejandro2003castrillon@gmail.com">alejandro2003castrillon@gmail.com</a>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile!
 </p>
