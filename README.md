@@ -1,20 +1,4 @@
-## Hi, I'm Jorge Alejandro Valencia Castrillon
 
-Junior developer with a strong interest in technology, programming, and continuous learning.  
-Motivated to grow through hands-on projects and collaboration.
-
-### About me
-
-▸ Currently working on personal and academic projects  
-▸ Learning new technologies and improving my programming skills step by step  
-▸ Open to collaborating on junior-friendly and open-source projects  
-▸ Focused on gaining real-world experience and learning from other developers  
-▸ Feel free to ask me about basic programming concepts and learning resources  
-▸ Contact: alejandro2003castrillon@gmail.com
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=Jorge%20Alejandro%20Valencia&fontSize=32&fontColor=ffffff" />
-</p>
 
 ## About me
 
